@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (not required, but ignored if you add tooling)
+node_modules/
+npm-debug.log*
+
+# Vercel
+.vercel
+
+# Local backups exported from the app
+*-backup-*.json
